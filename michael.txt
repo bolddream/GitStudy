@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 11111michaellovesjane111111aaaaa
 22222222222222222222222222222222
+=======
+111111bbbbbbbbb11111
+bbbbbbbbbb
+>>>>>>> 017259c... michael.txt second commit
